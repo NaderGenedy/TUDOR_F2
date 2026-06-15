@@ -1,0 +1,23 @@
+# Data files (participant-level, never commit)
+*.rds
+*.csv
+*.RData
+*.Rdata
+tudor_pipeline_output/
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local settings
+.claude/settings.local.json
